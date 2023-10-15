@@ -1,6 +1,5 @@
 - 👋 Hi, I’m krishna
-- 👀 My interest : Java, android, Cybersecurity 
-- 🌱 I’m currently learning Android dev
+- 👀 My interest : Java, android, SpringBoot, DeepLearning
 - 💞️ I’m looking to collaborate java programming and mobile app development
 
 <!---
